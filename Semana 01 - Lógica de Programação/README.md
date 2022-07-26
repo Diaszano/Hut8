@@ -2,4 +2,4 @@
 
 ## Aqui postaremos tudo feito nesta semana.
 
-## [Home](../../Hut8/)
+## [Home](../../)

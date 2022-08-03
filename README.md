@@ -10,7 +10,7 @@
 ## Semanas
 
 - [x] [Semana 01 - Lógica de Programação](./Semana%2001%20-%20L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o/)
-- [ ] [Semana 02 - Lógica de Programação](./Semana%2002%20-%20L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o/)
+- [x] [Semana 02 - Lógica de Programação](./Semana%2002%20-%20L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o/)
 - [ ] [Semana 03 - Lógica de Programação](./Semana%2003%20-%20L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o/)
 - [ ] [Semana 04 - Lógica de Programação](./Semana%2004%20-%20L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o/)
 

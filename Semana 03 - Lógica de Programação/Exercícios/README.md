@@ -13,7 +13,7 @@
     - Exemplo Entrada:
 
     ```js
-        { name: ‘Lucas’, idade: 21 }
+        { name: 'Lucas', idade: 21 }
     ```
 
     - Exemplo Saída: Maior de idade

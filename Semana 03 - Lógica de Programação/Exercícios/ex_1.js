@@ -1,17 +1,17 @@
 // Primeiro exercício
-const soma = function (number_1,number_2) {
+const soma = (number_1,number_2) => {
     return number_1 + number_2;
 }
 
-const subtrai = function(number_1,number_2) {
+const subtrai = (number_1,number_2) => {
     return number_1 - number_2;
 }
 
-const divide = function(number_1,number_2) {
+const divide = (number_1,number_2) => {
     return number_1 / number_2;
 }
 
-const multiplica = function(number_1,number_2) {
+const multiplica = (number_1,number_2) => {
     return number_1 * number_2;
 }
 
